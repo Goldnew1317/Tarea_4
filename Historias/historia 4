@@ -1,0 +1,11 @@
+Yo como desarrollador: 
+Quiero verificae que una vez dentro de la pagina principal se pueda acceder de forma manual a el tutorial de la misma
+
+Criterio de aceptacion:
+
+1- Que la pagina te permita acceder a esa funcionalidad dentro de ella
+
+Criterio de Rechazo:
+
+1- Que la pagina no me permita acceder de forma manual
+2- Que el acceso a la funcionalidad no funcione

@@ -1,0 +1,11 @@
+Yo como desarrollador: 
+Quiero comprobar que el inicio de sesion falla en el caso de que las credenciales que se introduzcan sean erroneas
+
+Criterio de aceptacion:
+
+1- Que la pagina indique que se han introducido mal las credenciales
+
+Criterio de Rechazo:
+
+1- Que la pagina no indique que no puedo iniciar sesion
+2- Que la pagina deje al usuario continuar aunque no haya iniciado sesion y se precise de esta

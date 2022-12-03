@@ -1,0 +1,13 @@
+Yo como desarrollador: 
+Quiero comprobar que la sesion una vez iniciada se puede cerrar de forma manual cuando el usuario los precise
+
+Criterio de aceptacion:
+
+1- Que la pagina te pregunte si estas seguro de cerrar la sesion
+2- Que la pagina cierre la sesion y te lleve a la pagina del inicio de sesion nuevamente
+
+Criterio de Rechazo:
+
+1- Que la pagina no permita cerrar sesion manualmente
+2- Que la pagina necesite que el usuario cierre la pagina o espere a que caduque la sesion para saber que la sesion esta cerrada
+ 

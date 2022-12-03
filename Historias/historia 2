@@ -1,0 +1,9 @@
+Yo como desarrollador: 
+Quiero comprobar que el inicio de sesion funciona en el caso de que las credenciales que se introduzcan sean correctas
+
+Criterio de aceptacion:
+
+1- Que la pagina lleve a otra pagina o me indique que se ha iniciado sesion correctamente
+
+Criterio de Rechazo:
+1- Que la pagina no permita iniciar sesion aun cuando las credenciales estan bien

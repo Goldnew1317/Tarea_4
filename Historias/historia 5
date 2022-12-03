@@ -1,0 +1,11 @@
+Yo como desarrollador: 
+Quiero comprobar que dentro de la pagina se pueda acceder a algun tipo de ayuda en caso de que no sepa que hacer
+
+Criterio de aceptacion:
+
+1- Que la pagina tenga un accesso visible a esa funcionalidad
+2- Que esa funcionalidad se facil de usar para cualquiera
+
+Criterio de Rechazo:
+
+1- Que la pagina no me tenga ningun tipo de funcionalidad de ayuda
